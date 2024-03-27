@@ -7,7 +7,7 @@
 
 2: Python 3.11
 
-3: Install mido   pip install mido
+3: Install mido          pip install mido
 
 # To do
   Figure out how to conect directly to the console 
